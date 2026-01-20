@@ -10,15 +10,15 @@ Cutting forces were measured using a dynamometer and tool wear was analyzed usin
 - Analyzed tool wear using SEM images and linked wear with force changes
 
  Experimental Setup
- [Setup](project_setup.png)
+ [Setup]
 
  Cutting Force Analysis
- [Force Analysis](force_analysis.png)
+ [Force Analysis]
 
  Tool Wear Analysis (SEM Images)
- [SEM Tool Wear](sem_toolwear.png)
+ [SEM Tool Wear]
 
  Key Insight
  As density decreases, porosity increases → loading becomes fluctuating in nature → resulting in higher tool wear          rates.
  Project Report (PDF)
- [Click here to view the full report](MRP_PROJECT.pdf)
+ [Click here to view the full report]
